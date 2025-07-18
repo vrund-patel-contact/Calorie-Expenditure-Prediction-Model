@@ -1,6 +1,6 @@
 # Calorie-Expenditure-Prediction-Model
 
-This is a multivariate linear regression model where we can view the relationship between mutliple variables.
+This is a multivariate linear regression model where we can view the relationship between multiple variables.
 
 These are the results:
 
